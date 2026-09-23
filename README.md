@@ -135,10 +135,10 @@ _A definir_
 
 | Membro | Papel | GitHub | LinkedIn |
 |--------|-------|--------|----------|
-| João Cavalcante | Product Owner | https://github.com/joaoCavalcante377 | — |
-| Rayssa Rizzi | Scrum Master | https://github.com/rayssarizzi | — |
-| Felipe Silva | Desenvolvedor | https://github.com/felipesgb | — |
-| Giovana Tarozo | Desenvolvedora | https://github.com/giotrzz | — |
-| João Luis | Desenvolvedor | https://github.com/joao-luis-0 | — |
-| Lucas Pereira | Desenvolvedor | https://github.com/tirolasca | — |
-| Mariana Neves | Desenvolvedora | https://github.com/nevesmariana | — |
+| João Cavalcante | Product Owner | https://github.com/joaoCavalcante377 | https://www.linkedin.com/in/jo%C3%A3o-vitor-cavalcante/ |
+| Rayssa Rizzi | Scrum Master | https://github.com/rayssarizzi | https://www.linkedin.com/in/rayssarizzi |
+| Felipe Silva | Desenvolvedor | https://github.com/felipesgb | https://www.linkedin.com/in/felipesgb |
+| Giovana Tarozo | Desenvolvedora | https://github.com/giotrzz | https://www.linkedin.com/in/giovana-tarozo |
+| João Luis | Desenvolvedor | https://github.com/joao-luis-0 | https://www.linkedin.com/in/joao-luis--/ |
+| Lucas Pereira | Desenvolvedor | https://github.com/tirolasca | https://www.linkedin.com/in/lucas-santostec |
+| Mariana Neves | Desenvolvedora | https://github.com/nevesmariana | https://www.linkedin.com/in/mariana-neves-33a4b1350 |
