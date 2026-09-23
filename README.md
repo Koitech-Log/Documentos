@@ -135,10 +135,10 @@ _A definir_
 
 | Membro | Papel | GitHub | LinkedIn |
 |--------|-------|--------|----------|
-| João Cavalcante | Product Owner | — | — |
-| Rayssa Rizzi | Scrum Master | — | — |
-| Felipe Silva | Desenvolvedor | — | — |
-| Giovana Tarozo | Desenvolvedora | — | — |
-| João Luis | Desenvolvedor | — | — |
-| Lucas Pereira | Desenvolvedor | — | — |
-| Mariana Neves | Desenvolvedora | — | — |
+| João Cavalcante | Product Owner | https://github.com/joaoCavalcante377 | — |
+| Rayssa Rizzi | Scrum Master | https://github.com/rayssarizzi | — |
+| Felipe Silva | Desenvolvedor | https://github.com/felipesgb | — |
+| Giovana Tarozo | Desenvolvedora | https://github.com/giotrzz | — |
+| João Luis | Desenvolvedor | https://github.com/joao-luis-0 | — |
+| Lucas Pereira | Desenvolvedor | https://github.com/tirolasca | — |
+| Mariana Neves | Desenvolvedora | https://github.com/nevesmariana | — |
