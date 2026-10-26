@@ -20,9 +20,9 @@ rápida de disponibilidade e vínculo das viagens via upload de manifesto.
 
 | Rank | Prioridade | User Story | Status |
 |------|-----------|------------|--------|
-| 1 | Alta | Como operador, quero visualizar rapidamente a situação de cada motorista (Disponível ou Ocupado) para identificar quem está livre para novas operações e evitar a ociosidade da frota. | 🟨 |
-| 2 | Alta | Como operador, quero realizar o upload do manifesto para que o sistema vincule as viagens aos motoristas já cadastrados. | 🟨 |
-| 3 | Média | Como gestor, quero realizar a carga inicial da base de motoristas para que o sistema tenha o cadastro oficial (Nome, CPF/CNPJ, Telefone, Veículo, Placa, Status). | 🟨 |
+| 1 | Alta | Como operador, quero visualizar rapidamente a situação de cada motorista (Disponível ou Ocupado) para identificar quem está livre para novas operações e evitar a ociosidade da frota. | 🟩 |
+| 2 | Alta | Como operador, quero realizar o upload do manifesto para que o sistema vincule as viagens aos motoristas já cadastrados. | 🟩 |
+| 3 | Média | Como gestor, quero realizar a carga inicial da base de motoristas para que o sistema tenha o cadastro oficial (Nome, CPF/CNPJ, Telefone, Veículo, Placa, Status). | 🟩 |
 
 
 ## ✅ Critérios de Aceitação
@@ -144,15 +144,3 @@ Quando eu submeto o arquivo<br>
 Então o sistema deve rejeitar esse registro<br>
 E devo visualizar uma mensagem indicando o erro de formatação<br>
 
-
-## 👥 Equipe
-
-| Membro | Papel | GitHub | LinkedIn |
-|--------|-------|--------|----------|
-| João Cavalcante | Product Owner | — | — |
-| Rayssa Rizzi | Scrum Master | — | — |
-| Felipe Silva | Desenvolvedor | — | — |
-| Giovana Tarozo | Desenvolvedora | — | — |
-| João Luis | Desenvolvedor | — | — |
-| Lucas Pereira | Desenvolvedor | — | — |
-| Mariana Neves | Desenvolvedora | — | — |
