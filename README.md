@@ -14,7 +14,7 @@
 
 ## KOITECH - LOG
 
-Sistema de controle, visualização e gamificação sobre os motoristas agregados.
+Sistema de controle, visualização e gamificação sobre os motoristas agregados. <br>
 Documentação do projeto: https://docs.google.com/document/d/1R6ny8YP1VJYyyOrnQ7LuHdpXsHNiH0dt_LWPdhOo1eo/edit?usp=sharing
 
 </div>
