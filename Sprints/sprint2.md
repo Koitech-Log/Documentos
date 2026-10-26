@@ -19,10 +19,15 @@ motorista.
 
 | Rank | Prioridade | User Story | Status |
 |------|-----------|------------|--------|
-| 4 | Alta | Como gestor, quero acessar o dashboard financeiro para visualizar os custos, fretes e rentabilidade consolidadas. | ❌ |
-| 5 | Alta | Como gestor, quero visualizar um ranking mensal da frota para identificar quem gera o melhor resultado financeiro, aplicando as regras de valorização de rotas (SP Capital, Km, etc). | ❌ |
-| 6 | Média | Como gestor, quero ver a rentabilidade média (Rentabilidade total / Número de viagens) para saber quem gera mais lucro com menos esforço. | ❌ |
-| 7 | Baixa | Como gestor, quero visualizar o histórico individual de viagens de cada motorista para analisar detalhadamente as últimas entregas e o desempenho ao longo dos meses. | ❌ |
+| 4 | Média | Como gestor, quero acessar o dashboard financeiro para visualizar os custos, fretes e rentabilidade consolidadas. | 🟩 |
+| 5 | Média | Como usuário do sistema quero acessar apenas as funcionalidades permitidas ao meu nível de acesso, para que eu utilize somente os recursos autorizados ao meu perfil. | 🟩 |
+| 6 | Média | Como gestor, quero acessar o dashboard financeiro e visualizar custos, valores de fretes e rentabilidade total, para que eu possa acompanhar o desempenho financeiro das operações. | 🟩 |
+| 7 | Média | Como gestor, quero visualizar a rentabilidade média por viagem, para que eu possa identificar quais operações apresentam maior retorno financeiro em relação à quantidade de viagens realizadas. | 🟩 |
+| 8 | Média | Como gestor, quero filtrar os indicadores financeiros por período, para que eu possa analisar o desempenho das operações em diferentes intervalos de tempo. | 🟩 |
+| 9 | Média |Como gestor, quero realizar o upload de um arquivo CSV contendo os dados dos veículos, para que eu possa cadastrar vários veículos de forma rápida e automatizada. | 🟩 |
+| 10 | Média | Como gestor, quero que o sistema valide a estrutura e os dados do arquivo CSV, para que apenas registros válidos sejam utilizados no cadastro dos veículos. | 🟩 |
+| 11 | Média | Como gestor, quero visualizar o resultado da importação do CSV, para que eu possa identificar os veículos cadastrados e os registros que apresentaram erros. | 🟩 |
+
 
 ## ✅ Critérios de Aceitação
 
